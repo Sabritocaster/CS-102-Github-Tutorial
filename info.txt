@@ -1,2 +1,26 @@
 Sabri Eren Dağdelen - 22001764 - https://github.com/Sabritocaster
 Valorant
+[16:01:34] Checkout refs/heads/new_information: started.
+[16:01:34] Checkout refs/heads/new_information: finished.157ms
+[16:01:47] Stage info.txt for commit: started.
+[16:01:47] Stage info.txt for commit: finished.193ms
+[16:02:00] Commit: started.
+[16:02:01] Commit: successfully created commit b56133c514508db0a17dbcd279a9f01557acc5a8
+[16:02:01] Commit: finished322ms[16:02:13] Push new_information: started.
+[16:02:19] Set upstream for refs/heads/new_information: started.
+[16:02:19] Set upstream for refs/heads/new_information: finished.240ms
+[16:02:20] Push new_information: finished.7.404s
+[16:03:33] Checkout refs/heads/main: started.
+[16:03:33] Checkout refs/heads/main: finished.208ms
+[16:03:49] Pull main: started.
+[16:03:49] Fetch remote origin: started
+[16:03:50] Fetch remote origin: finished281ms
+[16:03:50] Merge origin/main into main: started.
+[16:03:50] Merge origin/main into main: finished.31ms
+[16:03:50] Pull main: finished.431ms
+[16:03:52] Pull main: started.
+[16:03:52] Fetch remote origin: started
+[16:03:52] Fetch remote origin: finished281ms
+[16:03:52] Merge origin/main into main: started.
+[16:03:52] Merge origin/main into main: finished.39ms
+[16:03:52] Pull main: finished.458ms
